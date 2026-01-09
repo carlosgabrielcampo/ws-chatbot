@@ -1,0 +1,581 @@
+{
+    "success-c6-full-conversation-error": {
+        "cpf": "97574695059",
+        "message": [
+            {
+                "timestamp": "2023-05-08T18:06:33.524Z",
+                "body": "Olá Andre, tudo bem? Você sabia que já tem *R$ 110,64* liberado para antecipar do seu saque-aniversário do FGTS? Digite OK que eu te mando mais informações :)",
+                "type": " ",
+                "fromMe": true,
+                "_id": "64593a2c1a30e1b4a130915b"
+            },
+            {
+                "body": "",
+                "type": "ptt",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "OI",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "97574695059",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "2",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_start",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "Nome Completo",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_mom_name",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "Nome Mãe Completo",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_date",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_date",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_date",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_birth_date",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "03-10-1998",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_birth_date",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1231287312",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_cep",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "88010030",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_bank",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_agency",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_type_account",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "5",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_account",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_bank",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_agency",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_type_account",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "5",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_account",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_bank",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_agency",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_type_account",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "5",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "false_number",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "return_test_account",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "retomar",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            }
+        ]
+    },
+    "success-c6-full-conversation": {
+        "cpf": "97574695059",
+        "message": [
+            {
+                "timestamp": "2023-05-08T18:06:33.524Z",
+                "body": "Olá Andre, tudo bem? Você sabia que já tem *R$ 110,64* liberado para antecipar do seu saque-aniversário do FGTS? Digite OK que eu te mando mais informações :)",
+                "type": " ",
+                "fromMe": true,
+                "_id": "64593a2c1a30e1b4a130915b"
+            },
+            {
+                "timestamp": 1683550525705,
+                "body": "Reiniciar",
+                "_id": "64593a2c1a30e1b4a130915b"
+            },
+            {
+                "body": "97574695059",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "Nome Completo",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "Nome Mãe Completo",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "03-10-1998",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1231287312",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "88010030",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "2131",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "5",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "14423",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "260",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "132123",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1683550525705
+            }
+        ]
+    },
+    "success-c6-re-conversation": {
+        "cpf": "97574695059",
+        "message": [
+            {
+                "body": "OI",
+                "timestamp": 1684550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1684550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1684550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1684550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1684550525705
+            },
+            {
+                "body": "1",
+                "timestamp": 1684550525705
+            }
+        ]
+    }
+}
