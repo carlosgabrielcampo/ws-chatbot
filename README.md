@@ -88,15 +88,6 @@ Additional important files:
 
 ---
 
-## 🔧 Setup (Optional)
-
-```bash
-git clone https://github.com/yourusername/ws-chatbot.git
-cd ws-chatbot
-npm install
-npm start
-```
-
 ## 🎯 Why This Project
 
 This project showcases:
