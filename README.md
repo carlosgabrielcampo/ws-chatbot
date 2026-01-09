@@ -44,6 +44,7 @@ The architecture is modular and extensible, allowing new banks, workflows, or in
 
 The project separates **API integrations**, **business logic**, and **routing**, following a layered structure:
 
+```text
 src/
 ├── api/
 │ ├── banks/ # Bank API integrations
@@ -57,7 +58,7 @@ src/
 │ └── whatsapp/ # Conversation rules and flow handling
 ├── database/ # Express routes and controllers
 └── util/ # Shared utilities
-
+```
 
 Additional important files:
 - `app.js` / `server.js` — Application entry points
